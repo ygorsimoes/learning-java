@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eCQH8PQ.png" width="60%" align="right">
+<img src="https://i.imgur.com/eCQH8PQ.png" width="40%" align="right">
 
 # 🏦 ByteBank
 
