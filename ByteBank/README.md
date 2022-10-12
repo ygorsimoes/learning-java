@@ -3,5 +3,7 @@
 # 🏦 ByteBank
 
 Esse projeto serviu para testar meus conhecimnentos e boas práticas em Orientação a Objeto com o
-curso de formação Java e Orientação da Objetos da Alura.
+curso de formação Java e Orientação a Objetos da Alura.
+
+[Link para o curso aqui.](https://cursos.alura.com.br/formacao-java)
 
